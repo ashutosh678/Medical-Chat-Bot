@@ -56,3 +56,7 @@ open up localhost:
 - Flask
 - Gemini
 - Pinecone
+
+## Create ECR repo to store/save docker image
+
+- save the URI: 959610928395.dkr.ecr.ap-south-1.amazonaws.com/medicalchatbot
